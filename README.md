@@ -4,7 +4,7 @@
 
 ## **Installation**
 
-[AdonisJs](https://preview.adonisjs.com/) membutuhkan [NodeJs](https://nodejs.org/en/) >= 12.0.0, dan dengan npm >= 6.0.0
+[AdonisJs v5](https://preview.adonisjs.com/) membutuhkan [NodeJs](https://nodejs.org/en/) >= 12.0.0, dan dengan npm >= 6.0.0
 
 ```bash
 // clone project
